@@ -4,7 +4,10 @@
 .hm-footer-contact {
 	margin-right: 16px !important;
 }
-.hm-nav .menu>.current-menu-parent>a, .hm-nav .menu>.current-menu-item>a {
+.hm-nav .menu>.current-menu-parent>a, .elementor-754 .elementor-element.elementor-element-d357f55 .elementor-counter-number-wrapper, .elementor-754 .elementor-element.elementor-element-a84a06e .elementor-counter-number-wrapper, .elementor-754 .elementor-element.elementor-element-f2b5045 .elementor-counter-number-wrapper, .elementor-754 .elementor-element.elementor-element-4cabb5e .elementor-heading-title, .elementor-754 .elementor-element.elementor-element-099e00d .elementor-heading-title,.elementor-754 .elementor-element.elementor-element-caed86a .elementor-heading-title, .hm-table-transport td span, .elementor-227 .elementor-element.elementor-element-7f407d3 .elementor-heading-title, .elementor-227 .elementor-element.elementor-element-c8dcc49 .elementor-heading-title, .elementor-227 .elementor-element.elementor-element-2d054fc .elementor-heading-title, .hm-nav .menu>.current-menu-item>a, .hm-nav .menu>.menu-item:hover>a, .hm-nav .sub-menu .current-menu-item a, .elementor-227 .elementor-element.elementor-element-54d8505 .elementor-counter-number-wrapper, .elementor-227 .elementor-element.elementor-element-3cf31b9 .elementor-counter-number-wrapper, .elementor-227 .elementor-element.elementor-element-1fd47c5 .elementor-counter-number-wrapper {
+	color: #3c7786 !important;
+}
+.elementor-widget-container p > a, .elementor-widget-container p > strong > a , .hm-nav .sub-menu a:hover {
 	color: #3c7786;
 }
 .hm-nav .menu>.current-menu-item>a:after, #btGoTop {
@@ -24,6 +27,12 @@
 .elementor-230 .elementor-element.elementor-element-90a1cf5.elementor-view-framed .elementor-icon,
 .elementor-230 .elementor-element.elementor-element-9bfdf8d.elementor-view-framed .elementor-icon,
 .elementor-230 .elementor-element.elementor-element-a98708f.elementor-view-framed .elementor-icon,
-.elementor-230 .elementor-element.elementor-element-9d9bcac.elementor-view-framed .elementor-icon {
+.elementor-230 .elementor-element.elementor-element-9d9bcac.elementor-view-framed .elementor-icon,
+.hm-table thead {
 	background: #3c7786;
 }
+
+.chaty.chaty-id-0 {
+	display: none !important;
+}
+
