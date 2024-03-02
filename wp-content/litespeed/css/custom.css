@@ -36,3 +36,26 @@
 	display: none !important;
 }
 
+
+.validation-error {
+	border: 1px solid red !important;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}
+
+.hm-order-btn:hover, .hm-order-btn:active, .hm-order-btn:focus,
+.hm-order-overlay-success .hm-order-overlay-btn:hover,
+.hm-order-overlay-success .hm-order-overlay-btn:focus,
+.hm-order-overlay-success .hm-order-overlay-btn:active {
+	background: #aad8d3;
+	border-color: #aad8d3;
+}
