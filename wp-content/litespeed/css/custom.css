@@ -59,3 +59,19 @@ input[type=number] {
 	background: #aad8d3;
 	border-color: #aad8d3;
 }
+
+.elementor-232 .elementor-element.elementor-element-7e5026d .elementor-widget-container img {
+	border-radius: 25px;
+}
+
+@media(max-width: 450px) {
+	body:not(.rtl) .elementor-232 .elementor-element.elementor-element-7e5026d {
+		top: 0;
+	}
+	.elementor-232 .elementor-element.elementor-element-20f45ec.elementor-column.elementor-element[data-element_type=column]>.elementor-widget-wrap.elementor-element-populated {
+		height: 240px !important;
+	}
+	.elementor-232 .elementor-element.elementor-element-7e5026d .elementor-widget-container img {
+		border-radius: 0;
+	}
+}
